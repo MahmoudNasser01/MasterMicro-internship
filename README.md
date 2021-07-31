@@ -71,7 +71,7 @@
 ## About The Project
 
 <p align="center">
-<img src="https://github.com/elMeniwy/PyPlot/blob/main/images/demo-frame.JPG">
+<img src="https://github.com/elMeniwy/master-micro-internship/blob/main/images/screen_shot_1.JPG">
 </p>
 This Python application will be really useful for people who study mathmatics and even for the data siecnce engineers ❤
 <br/>
@@ -130,12 +130,12 @@ Here we have Additional screenshots, code examples and demos work well in this s
 
 ## Main Page
 <p align="center">
-<img src="https://github.com/elMeniwy/PyPlot/blob/main/images/main-frame.JPG" alt="">
+<img src="https://github.com/elMeniwy/master-micro-internship/blob/main/images/screen_shot_2.JPG" alt="">
 </p>
 
 ## Raising Errors
 <<p align="center">
-<img src="https://github.com/elMeniwy/PyPlot/blob/main/images/error-frame.png" alt="">
+<img src="https://github.com/elMeniwy/master-micro-internship/blob/main/images/error.JPG" alt="">
 </p>
 
 _For more examples, please refer to the [Documentation](https://example.com)_
