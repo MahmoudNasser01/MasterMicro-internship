@@ -1,0 +1,15 @@
+{
+    "name": "task2",
+    "version": "1.0.0",
+    "description": "This is my Topology API",
+    "main": "TopologyAPI.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node TopologyAPI.js"
+    },
+    "author": "Mahmoud Nasser",
+    "license": "MIT",
+    "dependencies": {
+        "jest": "^27.0.6"
+    }
+}
