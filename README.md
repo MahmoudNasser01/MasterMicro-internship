@@ -169,13 +169,9 @@ See the [open issues](https://github.com/elMeniwy/PyPlot/issues) for a list of p
    
    npm run start
    
-   ```
- 4. Run test mode
-    ```js
-    
-    npm run test
+   npm run test
    
-   ``` 
+   ```
 
 <!-- CONTRIBUTING -->
 ## Contributing
