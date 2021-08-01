@@ -148,6 +148,34 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/elMeniwy/PyPlot/issues) for a list of proposed features (and known issues).
 
 
+<!----task -2 --->
+## Task 2
+
+###Get Started
+1. Move to project directory
+   ```js
+   
+   cd [dir name]
+   
+   ```
+2. Install packages
+   ```js
+   
+   npm insatll
+   
+   ```
+3. Run 
+   ```js
+   
+   npm run start
+   
+   ```
+ 4. Run test mode
+    ```js
+    
+    npm run test
+   
+   ``` 
 
 <!-- CONTRIBUTING -->
 ## Contributing
